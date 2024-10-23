@@ -1,0 +1,781 @@
+song came:9
+song came	song:9
+song came	came:9
+song	song came	came:9
+sure:9
+player:9
+left:9
+miss days:9
+miss days	days:9
+miss days	miss:9
+days	miss days	miss:9
+played song:9
+played song	song:9
+played song	played:9
+song	played song	played:9
+tv:9
+yes:9
+records:9
+place:9
+childhood memories:9
+childhood memories	memories:9
+childhood memories	childhood:9
+memories	childhood memories	childhood:9
+right:9
+song takes:9
+song takes	song:9
+song takes	takes:9
+song	song takes	takes:9
+karen:9
+didn:10
+god:10
+home:10
+amazing:10
+awesome:10
+60s:10
+kind:10
+real:10
+use:10
+favorite song:10
+favorite song	song:10
+favorite song	favorite:10
+song	favorite song	favorite:10
+good times:10
+good times	good:10
+good times	times:10
+good	good times	times:10
+14:10
+changed:10
+hit:10
+friends:10
+younger:10
+teen:10
+40:10
+friend:10
+bringing:10
+knew:10
+summer:10
+words:11
+tune:11
+born:11
+used play:11
+used play	used:11
+used play	play:11
+used	used play	play:11
+house:11
+late:11
+remind:11
+going:11
+brings good:11
+brings good	memories:10
+brings	brings good	memories:10
+good	brings good	memories:10
+brings	good	brings good	memories:10
+brings good	brings:11
+brings good	good:11
+brings	brings good	good:11
+want:11
+big:11
+classic:11
+beautiful memories:11
+beautiful memories	memories:11
+beautiful memories	beautiful:11
+memories	beautiful memories	beautiful:11
+lost:11
+went:11
+brother:11
+remember song:11
+remember song	song:11
+remember song	remember:11
+song	remember song	remember:11
+night:11
+nice:11
+older:11
+1963:11
+car:11
+grew:12
+people:12
+fantastic:12
+forever:12
+70s:12
+youth:12
+dancing:12
+80s:12
+50:12
+listening song:12
+listening song	song:12
+listening song	listening:12
+song	listening song	listening:12
+sister:12
+age:13
+think:13
+rip:13
+good old days:13
+good old days	old:13
+good old days	days:13
+old	good old days	days:13
+good old days	good:13
+old	good old days	good:13
+days	good old days	good:13
+old	days	good old days	good:13
+good old days	old days:13
+old	good old days	old days:13
+days	good old days	old days:13
+good	good old days	old days:13
+old	days	good old days	old days:13
+old	good	good old days	old days:13
+days	good	good old days	old days:13
+old	days	good	good old days	old days:13
+good old days	good old:13
+old	good old days	good old:13
+days	good old days	good old:13
+good	good old days	good old:13
+old days	good old days	good old:13
+old	days	good old days	good old:13
+old	good	good old days	good old:13
+old	old days	good old days	good old:13
+days	good	good old days	good old:13
+days	old days	good old days	good old:13
+good	old days	good old days	good old:13
+old	days	good	good old days	good old:13
+old	days	old days	good old days	good old:13
+old	good	old days	good old days	good old:13
+days	good	old days	good old days	good old:13
+old	days	good	old days	good old days	good old:13
+passed away:13
+passed away	passed:13
+passed away	away:13
+passed	passed away	away:13
+hear song:13
+hear song	song:13
+hear song	hear:13
+song	hear song	hear:13
+10:13
+10	years:10
+eyes:13
+lyrics:13
+lyrics	song:9
+used sing:13
+used sing	used:13
+used sing	sing:13
+used	used sing	sing:13
+80:13
+later:14
+later	song:10
+make:14
+hearing:14
+happy memories:14
+happy memories	memories:14
+happy memories	happy:14
+memories	happy memories	happy:14
+missed:14
+good old:14
+good old	days:13
+old	good old	days:13
+good	good old	days:13
+old	good	good old	days:13
+good old	old days:13
+old	good old	old days:13
+good	good old	old days:13
+days	good old	old days:13
+old	good	good old	old days:13
+old	days	good old	old days:13
+good	days	good old	old days:13
+old	good	days	good old	old days:13
+good old	old:14
+good old	good:14
+old	good old	good:14
+country:14
+country	music:9
+song remember:14
+song remember	song:14
+song remember	remember:14
+song	song remember	remember:14
+growing:14
+tears:14
+brought:14
+brought	song:9
+brought	memories:9
+don:14
+don	song:9
+dance:15
+dance	song:10
+singer:15
+father:15
+father	song:9
+boy:15
+boy	song:10
+yesterday:15
+yesterday	song:9
+sang:15
+man:15
+man	song:9
+past:15
+past	song:11
+listened:16
+heard song:16
+heard song	song:16
+heard song	heard:16
+song	heard song	heard:16
+lot:16
+lot	memories:10
+lot	memories	song:9
+lot	song:11
+old days:16
+old days	good:13
+old	old days	good:13
+days	old days	good:13
+old	days	old days	good:13
+old days	old:16
+old days	days:16
+old	old days	days:16
+live:16
+live	song:9
+world:16
+world	song:11
+died:16
+gone:16
+mother:16
+mother	song:11
+nostalgia:16
+nostalgia	song:10
+feel:16
+jim reeves:17
+jim reeves	jim:17
+jim reeves	reeves:17
+jim	jim reeves	reeves:17
+come:17
+come	song:9
+come	memories:13
+wow:17
+2019:17
+2019	memories:9
+teenager:18
+teenager	song:10
+heart:18
+heart	song:10
+record:18
+60:18
+great memories:18
+great memories	song:10
+memories	great memories	song:10
+great	great memories	song:10
+memories	great	great memories	song:10
+great memories	memories:18
+great memories	great:18
+memories	great memories	great:18
+know:18
+know	song:11
+oh:18
+listen song:18
+listen song	song:18
+listen song	listen:18
+song	listen song	listen:18
+reeves:19
+reeves	jim:17
+nostalgic:19
+parents:19
+parents	song:10
+great song:19
+great song	song:19
+great song	great:19
+song	great song	great:19
+way:19
+way	song:9
+early:20
+high school:20
+high school	song:10
+school	high school	song:10
+high	high school	song:10
+school	high	high school	song:10
+high school	school:20
+high school	high:20
+school	high school	high:20
+did:20
+did	song:12
+lovely:20
+lovely	song:10
+girl:20
+girl	song:10
+sweet:21
+got:21
+got	years:9
+got	song:11
+70:21
+70	song:9
+song brings:21
+song brings	memories:16
+song	song brings	memories:16
+brings	song brings	memories:16
+song	brings	song brings	memories:16
+song brings	song:21
+song brings	brings:21
+song	song brings	brings:21
+high:22
+high	song:12
+high	song	school:10
+high	school:20
+good memories:22
+good memories	brings:9
+good memories	brings	memories:9
+good memories	brings	good:9
+memories	good memories	brings	good:9
+good memories	song:11
+memories	good memories	song:11
+good	good memories	song:11
+memories	good	good memories	song:11
+good memories	memories:22
+good memories	good:22
+memories	good memories	good:22
+playing:22
+playing	remember:10
+memory:23
+bring:23
+bring	song:9
+bring	memories:12
+long:23
+long	time:11
+long	song:13
+sad:23
+sad	song:9
+beautiful song:23
+beautiful song	memories:11
+song	beautiful song	memories:11
+beautiful	beautiful song	memories:11
+song	beautiful	beautiful song	memories:11
+beautiful song	song:23
+beautiful song	beautiful:23
+song	beautiful song	beautiful:23
+child:24
+child	song:12
+year:24
+year	years:9
+year	old:12
+year	song:12
+jim:25
+jim	memories:10
+away:25
+away	passed:13
+away	song:13
+today:25
+today	song:10
+years ago:25
+years ago	song:11
+years	years ago	song:11
+ago	years ago	song:11
+years	ago	years ago	song:11
+years ago	years:25
+years ago	ago:25
+years	years ago	ago:25
+kid:26
+kid	song:16
+wish:26
+singing:27
+singing	remember:9
+singing	years:10
+singing	song:17
+mom:27
+mom	dad:9
+mom	memories:10
+mom	song:13
+came:28
+came	old:9
+came	years:12
+came	years	song:11
+came	song:19
+day:28
+day	years:9
+day	remember:9
+day	time:9
+day	song:15
+little:29
+little	remember:9
+little	song:19
+mum:29
+mum	miss:9
+mum	dad:11
+mum	song:13
+takes:30
+takes	song:13
+favorite:30
+favorite	memories:9
+favorite	song:17
+passed:30
+passed	years:12
+passed	song:17
+song reminds:30
+song reminds	song:30
+song reminds	reminds:30
+song	song reminds	reminds:30
+love song:30
+love song	song:30
+love song	love:30
+song	love song	love:30
+makes:31
+makes	memories:10
+makes	love:10
+makes	song:15
+wonderful:31
+wonderful	memories:16
+wonderful	song:17
+play:33
+play	used:11
+play	song:17
+really:33
+really	time:9
+really	years:12
+really	song:20
+radio:34
+radio	time:9
+radio	remember:9
+radio	song:14
+brings memories:35
+brings memories	song:17
+memories	brings memories	song:17
+brings	brings memories	song:17
+memories	brings	brings memories	song:17
+brings memories	memories:35
+brings memories	brings:35
+memories	brings memories	brings:35
+life:35
+life	time:9
+life	memories:9
+life	love:10
+life	song:14
+ago:36
+ago	remember:9
+ago	song:16
+ago	song	years:12
+ago	years:26
+thanks:36
+thanks	remember:9
+thanks	memories:17
+thanks	song:20
+happy:37
+happy	days:9
+happy	song:19
+happy	song	memories:9
+happy	memories:22
+sing:39
+sing	dad:9
+sing	love:9
+sing	used:16
+sing	song:23
+thank:39
+thank	remember:10
+thank	song:15
+thank	memories:17
+best:39
+best	love:9
+best	music:9
+best	memories:13
+best	song:16
+played:41
+played	great:10
+played	remember:11
+played	memories:14
+played	song:21
+hear:43
+hear	years:9
+hear	memories:9
+hear	love:9
+hear	time:13
+hear	time	song:9
+hear	song:28
+listen:43
+listen	old:9
+listen	memories:9
+listen	memories	song:9
+listen	just:9
+listen	years:13
+listen	years	song:10
+listen	time:14
+listen	time	song:10
+listen	song:31
+young:44
+young	memories:9
+young	years:10
+young	love:12
+young	remember:16
+young	remember	song:10
+young	song:24
+heard:45
+heard	just:9
+heard	old:9
+heard	remember:10
+heard	years:15
+heard	years	song:11
+heard	time:18
+heard	time	song:12
+heard	song:31
+times:45
+times	song:11
+times	great:11
+times	good:12
+used:46
+used	years:9
+used	time:9
+used	memories:10
+used	song:29
+years old:46
+years old	like:9
+years old	like	years:9
+years old	like	old:9
+years	years old	like	old:9
+years old	just:10
+years old	just	years:10
+years old	just	old:10
+years	years old	just	old:10
+years old	memories:11
+years old	memories	years:11
+years old	memories	old:11
+years	years old	memories	old:11
+years old	remember:11
+years old	remember	years:11
+years old	remember	old:11
+years	years old	remember	old:11
+years old	song:29
+years	years old	song:29
+old	years old	song:29
+years	old	years old	song:29
+years old	years:46
+years old	old:46
+years	years old	old:46
+voice:47
+voice	music:9
+voice	love:9
+voice	memories:9
+voice	beautiful:12
+voice	remember:15
+voice	great:16
+voice	song:16
+school:49
+school	remember:9
+school	memories:9
+school	time:9
+school	love:10
+school	old:10
+school	song:25
+like:50
+like	songs:9
+like	time:9
+like	memories:10
+like	remember:10
+like	good:10
+like	just:11
+like	just	song:9
+like	old:12
+like	old	song:9
+like	old	years:10
+like	years:19
+like	years	song:14
+like	song:29
+dad:50
+dad	time:9
+dad	years:10
+dad	memories:12
+dad	reminds:12
+dad	remember:13
+dad	remember	song:9
+dad	miss:14
+dad	song:29
+loved:52
+loved	great:9
+loved	songs:9
+loved	music:9
+loved	years:10
+loved	memories:11
+loved	song:25
+listening:58
+listening	brings:10
+listening	old:10
+listening	music:12
+listening	remember:13
+listening	years:13
+listening	memories:19
+listening	memories	song:11
+listening	song:27
+songs:62
+songs	old:9
+songs	great:11
+songs	time:11
+songs	years:12
+songs	brings:12
+songs	brings	memories:10
+songs	just:13
+songs	song:17
+songs	memories:19
+songs	memories	love:9
+songs	love:20
+just:64
+just	music:9
+just	days:9
+just	remember:12
+just	great:12
+just	love:14
+just	time:14
+just	old:14
+just	old	years:12
+just	memories:16
+just	years:19
+just	years	song:12
+just	song:32
+good:70
+good	remember:10
+good	time:10
+good	love:11
+good	love	memories:9
+good	love	song:9
+good	music:11
+good	music	memories:9
+good	years:16
+good	days:18
+good	days	old:16
+good	brings:21
+good	brings	song:10
+good	brings	song	memories:9
+good	brings	memories:19
+good	old:24
+good	old	song:10
+good	song:31
+good	song	memories:19
+good	memories:36
+reminds:74
+reminds	miss:11
+reminds	years:12
+reminds	days:13
+reminds	love:20
+reminds	love	song:11
+reminds	song:42
+miss:74
+miss	brings:9
+miss	childhood:9
+miss	music:9
+miss	days:11
+miss	beautiful:11
+miss	remember:11
+miss	years:13
+miss	love:14
+miss	memories:19
+miss	song:34
+beautiful:75
+beautiful	time:11
+beautiful	brings:11
+beautiful	brings	memories:9
+beautiful	remember:12
+beautiful	love:12
+beautiful	years:14
+beautiful	years	song:12
+beautiful	memories:27
+beautiful	memories	song:21
+beautiful	song:50
+childhood:75
+childhood	old:9
+childhood	years:10
+childhood	beautiful:11
+childhood	brings:12
+childhood	love:12
+childhood	memories:27
+childhood	memories	song:9
+childhood	song:30
+days:78
+days	years:10
+days	time:10
+days	remember:10
+days	memories:18
+days	old:28
+days	old	song:13
+days	song:34
+music:89
+music	old:14
+music	brings:14
+music	brings	memories:11
+music	great:17
+music	great	memories:9
+music	remember:17
+music	remember	song:9
+music	time:18
+music	years:20
+music	love:26
+music	love	song:9
+music	memories:28
+music	memories	song:9
+music	song:28
+great:93
+great	old:11
+great	years:12
+great	love:12
+great	remember:12
+great	brings:15
+great	brings	song:9
+memories	great	brings	song:9
+great	brings	memories:14
+great	time:16
+great	memories:37
+great	memories	song:21
+great	song:47
+brings:103
+brings	time:12
+brings	time	memories:12
+brings	old:15
+brings	old	song:9
+brings	old	memories:9
+brings	old	years:10
+brings	love:20
+brings	love	song:12
+brings	love	song	memories:9
+brings	love	memories:15
+brings	years:21
+brings	years	song:12
+brings	years	memories:12
+brings	song:50
+brings	song	memories:40
+brings	memories:83
+old:108
+old	time:17
+old	time	years:10
+old	love:23
+old	love	years:11
+old	love	song:15
+old	remember:23
+old	remember	song:14
+old	remember	years:14
+old	remember	years	song:10
+old	memories:25
+old	memories	song:13
+old	memories	years:13
+old	memories	years	song:9
+old	years:55
+old	years	song:33
+old	song:55
+time:113
+time	remember:19
+time	remember	song:11
+time	years:20
+time	years	song:11
+time	love:24
+time	love	song:16
+time	memories:28
+time	memories	song:18
+time	song:58
+remember:121
+remember	love:18
+remember	love	song:14
+remember	memories:20
+remember	memories	song:14
+remember	years:29
+remember	years	song:21
+remember	song:72
+love:124
+love	years:28
+love	years	song:18
+love	memories:38
+love	memories	song:21
+love	song:70
+years:136
+years	memories:32
+years	memories	song:20
+years	song:74
+memories:227
+memories	song:108
+song:353

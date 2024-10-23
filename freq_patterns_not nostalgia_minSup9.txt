@@ -1,0 +1,279 @@
+favorites:9
+special:9
+years old:9
+years old	old:9
+years old	years:9
+old	years old	years:9
+soul:9
+mind:9
+60:9
+60s:9
+music like:9
+music like	music:9
+music like	like:9
+music	music like	like:9
+family:9
+ones:9
+things:9
+pure:9
+wonder:9
+person:9
+sung:9
+year:9
+handsome:9
+perfect:9
+born:9
+ll:9
+happy:9
+end:9
+rock:10
+says:10
+emotion:10
+tell:10
+movie:10
+believe:10
+thing:10
+ago:10
+friend:10
+lady:10
+sings:10
+want:10
+understand:10
+generation:11
+hit:11
+enjoy:11
+yes:11
+long:11
+away:11
+work:11
+band:11
+does:11
+called:11
+lol:11
+great song:11
+great song	song:11
+great song	great:11
+song	great song	great:11
+words:11
+didn:11
+voices:11
+eyes:11
+thought:11
+kind:11
+dance:11
+song great:11
+song great	song:11
+song great	great:11
+song	song great	great:11
+beautiful voice:11
+beautiful voice	voice:11
+beautiful voice	beautiful:11
+voice	beautiful voice	beautiful:11
+lot:11
+pretty:11
+gonna:11
+sounds:12
+brilliant:12
+girl:12
+tears:12
+single:12
+wrong:12
+tune:12
+nowadays:12
+lovely:12
+times:12
+sure:12
+romantic:12
+guy:12
+play:13
+played:13
+right:13
+seen:13
+look:13
+youtube:13
+new:14
+beautiful song:14
+beautiful song	song:14
+beautiful song	beautiful:14
+song	beautiful song	beautiful:14
+pop:14
+feeling:14
+original:14
+era:14
+live:15
+anymore:15
+singers:16
+came:16
+country:16
+forever:16
+sound:16
+little:16
+wow:16
+say:16
+feel:17
+feel	song:9
+true:17
+fantastic:17
+greatest:18
+makes:18
+makes	song:10
+age:19
+young:19
+days:20
+wonderful:20
+favorite:20
+thanks:20
+ve:20
+ve	song:10
+got:20
+elvis:21
+loved:21
+loved	song:9
+amazing:21
+amazing	song:10
+classic:21
+lyrics:21
+day:24
+day	song:13
+wish:24
+god:25
+nice:25
+nice	song:12
+did:25
+did	song:9
+make:25
+make	like:10
+come:26
+singing:26
+singing	song:10
+love song:26
+love song	song:26
+love song	love:26
+song	love song	love:26
+sad:26
+sad	song:13
+way:26
+way	song:9
+real:26
+real	music:12
+life:27
+life	song:11
+life	love:12
+heart:27
+heart	song:12
+better:27
+years:28
+years	old:10
+years	song:11
+sing:29
+sing	love:9
+sing	song:10
+version:29
+version	song:16
+man:30
+man	song:10
+man	love:10
+world:30
+world	song:14
+heard:31
+heard	love:10
+heard	song:14
+people:31
+people	music:10
+people	song:11
+listening:31
+listening	love:10
+listening	song:13
+video:32
+video	song:11
+today:32
+today	songs:10
+today	like:11
+today	music:13
+singer:35
+singer	love:10
+singer	great:10
+old:35
+old	songs:9
+old	love:10
+old	song:12
+listen:36
+listen	music:11
+listen	song:15
+hear:38
+hear	love:11
+hear	song:17
+thank:43
+thank	song:14
+think:43
+think	music:11
+think	song:17
+don:43
+don	just:9
+don	know:9
+don	like:12
+don	song:15
+best:45
+best	music:10
+best	song:16
+really:48
+really	great:9
+really	time:9
+really	like:10
+really	love:15
+really	song:17
+good:50
+good	like:10
+good	music:15
+good	song:17
+know:52
+know	song:18
+songs:71
+songs	just:10
+songs	beautiful:10
+songs	like:11
+songs	great:11
+songs	song:12
+songs	music:12
+songs	love:15
+time:72
+time	like:9
+time	music:11
+time	love:13
+time	song:25
+just:77
+just	music:12
+just	like:14
+just	love:21
+just	love	song:14
+just	song:31
+beautiful:78
+beautiful	like:9
+beautiful	music:16
+beautiful	love:17
+beautiful	love	song:15
+beautiful	voice:19
+beautiful	song:40
+voice:79
+voice	great:10
+voice	love:10
+voice	song:13
+voice	like:15
+voice	music:15
+great:85
+great	music:12
+great	love:16
+great	love	song:9
+great	song:31
+like:98
+like	love:15
+like	love	song:10
+like	music:25
+like	song:35
+music:123
+music	song:23
+music	song	love:10
+music	love:25
+love:131
+love	song:65
+song:251
